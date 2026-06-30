@@ -22,7 +22,7 @@ unique, du diagnostic initial jusqu'à la mise en œuvre opérationnelle :
 3. décliner un **plan de mise en œuvre** avec un pilote mesurable et les dispositifs
    transverses (formation, audits, gestion des risques).
 
-Les supports de **soutenance orale** (présentation et fiche de préparation) complètent
+Les supports de **soutenance orale** (présentation) complètent
 le dossier écrit.
 
 ---
@@ -65,12 +65,6 @@ dépôt via « Code » puis « Download ZIP ».
 | **Livrable 2b — Organigramme et responsabilités** | Organigramme du modèle de Centre d'Excellence (CoE) et tableau des responsabilités, sur une page. | `Livrable2b_Organigramme.pdf` |
 | **Livrable 3 — Plan de mise en œuvre** | Plan opérationnel : modèle d'organisation, outillage, pilote sur le département Marketing, plan de formation inclusif, dispositif d'audit récurrent et registre des risques. | `Livrable3_Plan.pdf`, `.docx` |
 
-### Soutenance orale
-
-| Document | Description | Formats |
-|---|---|---|
-| **Présentation de soutenance** | Support de présentation de 13 slides, calibré pour environ 15 minutes, couvrant l'ensemble des compétences du Bloc 1. | `Soutenance_Spotify.pptx`, `.pdf` |
-| **Fiche de préparation orale** | Fiche de préparation : cartographie des compétences, déroulé minuté, conseils de présentation et section questions/réponses anticipant les échanges avec le jury. | `Fiche_Orale_QA.pdf`, `.docx` |
 
 ---
 
@@ -80,7 +74,7 @@ dépôt via « Code » puis « Download ZIP ».
 2. Livrable 2 — Politique de gouvernance
 3. Livrable 2b — Organigramme et responsabilités
 4. Livrable 3 — Plan de mise en œuvre
-5. Soutenance (présentation) et Fiche de préparation orale
+5. Soutenance (présentation)
 
 ---
 
